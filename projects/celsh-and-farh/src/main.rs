@@ -43,7 +43,7 @@ fn main() {
 
   if response == 1{
 
-    println!("type in your fahrenheit value");
+    println!("type in your fahrenheit value, preferably a value below 32 please.");
 
     let mut farh = String::new();
     
